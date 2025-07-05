@@ -154,4 +154,4 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ---
 **Desarrollado con ❤️ para Telecom X**  
-*Analytics Team - 2023*
+*Analytics Team - 2025*
