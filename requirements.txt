@@ -1,0 +1,20 @@
+# Dependencias para el análisis de predicción de churn en telecomunicaciones
+
+## Procesamiento de datos
+pandas==1.5.3
+numpy==1.24.3
+
+## Machine Learning y preprocesamiento
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
+
+## Visualización
+matplotlib==3.7.1
+seaborn==0.12.2
+
+## Gestión de archivos
+openpyxl==3.1.2  # Para posibles exportaciones a Excel
+
+## Utilidades
+jupyter==1.0.0    # Para ejecución en notebooks (opcional)
+ipykernel==6.22.0 # Para ejecución en notebooks (opcional)

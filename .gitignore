@@ -1,0 +1,46 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+.env/
+env.bak/
+.ENV/
+
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de logs y bases de datos
+*.log
+*.sqlite3
+
+# Archivos de pruebas
+.coverage
+.tox/
+.nox/
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos de configuración de herramientas
+*.pytest_cache/
+.mypy_cache/
+.pytest_cache/
